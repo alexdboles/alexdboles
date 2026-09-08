@@ -6,18 +6,18 @@ I build practical applications around real workflows: sales practice, operations
 
 | Project | Problem and approach | Explore |
 | --- | --- | --- |
-| **RepForge** | Practise sales conversations with simulated buyers and evidence-linked coaching. React, FastAPI, and MongoDB. | [Source and screenshots](https://github.com/itsdjb01/repforge) · [Live app](https://www.therepforge.app/) |
-| **RosterEdge** | Make fantasy-football decisions inspectable through deterministic analytics and optional AI explanations. React and TypeScript. | [Source and screenshots](https://github.com/itsdjb01/rosteredge) |
-| **Mercury** | Organize social content locally with a calendar, media bundles, and exports. Python and PyQt. | [Source and screenshots](https://github.com/itsdjb01/mercury) |
-| **Nightclub Operations Manager** | Track guest check-in and review operations with SQLite-backed reporting. Python desktop application. | [Source and screenshots](https://github.com/itsdjb01/nightclub-operations-manager) |
+| **RepForge** | Practise sales conversations with simulated buyers and evidence-linked coaching. React, FastAPI, and MongoDB. | [Source and screenshots](https://github.com/alexdboles/repforge) · [Live app](https://www.therepforge.app/) |
+| **RosterEdge** | Make fantasy-football decisions inspectable through deterministic analytics and optional AI explanations. React and TypeScript. | [Source and screenshots](https://github.com/alexdboles/rosteredge) |
+| **Mercury** | Organize social content locally with a calendar, media bundles, and exports. Python and PyQt. | [Source and screenshots](https://github.com/alexdboles/mercury) |
+| **Nightclub Operations Manager** | Track guest check-in and review operations with SQLite-backed reporting. Python desktop application. | [Source and screenshots](https://github.com/alexdboles/nightclub-operations-manager) |
 
 ## IBM coursework and learning projects
 
-- [CodeCraftHub — Course Management Dashboard](https://github.com/itsdjb01/codecrafthub-course-dashboard): Flask REST API and HTML/CSS/JavaScript CRUD interface.
-- [Customer Database & Reporting](https://github.com/itsdjb01/ibm-customer-database): SQLite schema, fictional data, and report integrity.
-- [Python Log Analyzer](https://github.com/itsdjb01/ibm-log-analyzer): streaming analysis and rolling error windows.
-- [My-GPT — Local AI Chatbot](https://github.com/itsdjb01/my-gpt): local conversational models with a Flask interface.
-- [Emotion Detection Web App](https://github.com/itsdjb01/ibm-emotion-detection): coursework fork integrating a text-analysis service.
+- [CodeCraftHub — Course Management Dashboard](https://github.com/alexdboles/codecrafthub-course-dashboard): Flask REST API and HTML/CSS/JavaScript CRUD interface.
+- [Customer Database & Reporting](https://github.com/alexdboles/ibm-customer-database): SQLite schema, fictional data, and report integrity.
+- [Python Log Analyzer](https://github.com/alexdboles/ibm-log-analyzer): streaming analysis and rolling error windows.
+- [My-GPT — Local AI Chatbot](https://github.com/alexdboles/my-gpt): local conversational models with a Flask interface.
+- [Emotion Detection Web App](https://github.com/alexdboles/ibm-emotion-detection): coursework fork integrating a text-analysis service.
 
 ## How I work
 
